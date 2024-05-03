@@ -1,5 +1,5 @@
 # Salutations. Look at this cat:
-![main](img/imagengatoparagit.png)
+![main](imagengatoparagit.png)
 - 🌱 I’m currently learning: Python.
 - 👯 I’m looking to collaborate on: Nothing at the moment.
 - 🤔 I’m looking for help with: Life.
