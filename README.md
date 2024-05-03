@@ -10,5 +10,5 @@ Now that you have seen it, let me introduce you this barren wasteland that's its
 - 📫 How to reach me: You don't.
 - ⚡ Fun fact: Gerontocracy is a word I learnt a long time ago.
 
-Linkedin:
+Linkedin: https://es.linkedin.com/in/d-alejandro-salcedo-p
 Insta:
