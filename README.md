@@ -5,7 +5,7 @@ Now that you have seen it, let me introduce you this barren wasteland that's its
 
 - 🌱 I’m currently learning: Python and Data Science
 - 👯 I’m looking to collaborate on: Everything at the moment.
-- 🤔 I’m looking for help with: Python.
+- 🤔 I’m looking for help with: Python, SQL and MySQL.
 - 💬 Ask me about: Anything really, idk man.
 - 📫 How to reach me: You can't.
 - ⚡ Fun fact: Gerontocracy is a word I learnt a long time ago.
